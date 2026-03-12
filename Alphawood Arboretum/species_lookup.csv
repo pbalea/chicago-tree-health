@@ -1,0 +1,80 @@
+common_name,scientific_name,nativity,leaf_type,lifespan
+Arborvitae-Eastern,Thuja occidentalis,native,coniferous,long
+Ash-Black,Fraxinus nigra,native,deciduous,moderate
+Ash-Green,Fraxinus pennsylvanica,native,deciduous,short
+Ash-White,Fraxinus americana,native,deciduous,moderate
+Birch-European White,Betula pendula,introduced,deciduous,short
+Birch-Gray,Betula populifolia,native,deciduous,short
+Black Lace Elderberry,Sambucus nigra,native,deciduous,NaN
+Blue Muffin Viburnum,Viburnum dentatum,native,deciduous,NaN
+Buckeye-Ohio,Aesculus glabra,native,deciduous,short
+Catalpa,Catalpa sp.,native,deciduous,NaN
+Catalpa-Northern,Catalpa speciosa,native,deciduous,long
+Cherry-Black,Prunus serotina,native,deciduous,NaN
+Cherry-Flowering,Prunus serrulata,introduced,deciduous,NaN
+Chicago Hardy Fig,Ficus carica,NaN,NaN,NaN
+Chokecherry-Common,Prunus virginiana,NaN,NaN,NaN
+Common Baldcypress,Taxodium distichum,NaN,NaN,NaN
+Crabapple,Malus sp.,NaN,NaN,NaN
+Dawn Redwood,Metasequoia glyptostroboides,introduced,deciduous,long
+Dogwood-Flowering,Cornus florida,native,deciduous,short
+Dogwood-Pagoda,Cornus alternifolia,native,deciduous,moderate
+Elm,Ulmus sp.,introduced,deciduous,NaN
+Elm-American,Ulmus americana,native,deciduous,moderate
+Elm-Siberian,Ulmus pumila,introduced,deciduous,short
+Elm-Slippery,Ulmus rubra,native,deciduous,moderate
+Euonymus,Euonymus sp.,NaN,NaN,NaN
+Euonymus-Burning,Euonymus alatus,NaN,NaN,NaN
+Fringetree-White,Chionanthus virginicus,native,deciduous,short
+Ginkgo,Ginkgo biloba,NaN,NaN,NaN
+Hackberry,Celtis occidentalis,native,deciduous,moderate
+Hawthorn,Crataegus sp.,native,deciduous,NaN
+Honeylocust-Common,Gleditsia triacanthos,native,deciduous,moderate
+Honeylocust-Thornless Common,Gleditsia triacanthos var. inermis,native,deciduous,moderate
+Honeylocust-Thornless Common,Gleditsia triacanthos,native,deciduous,moderate
+Hophornbeam- American,Ostrya virginiana,,,
+Hornbeam-American,Carpinus caroliniana,,,
+Hornbeam-European,Carpinus betulus,,,
+Horsechestnut- Common,Aesculus hippocastanum,,,
+Juniper,Juniperus horizontalis,,,
+Kentucky Coffeetree,Gymnocladus dioicus, native,deciduous,long
+Lilac,Syringa sp,,,
+Linden-American,Tilia americana,native,deciduous,moderate
+Linden-Littleleaf,Tilia cordata,,,
+Locust-Black,Robinia pseudoacacia,,,
+Magnolia,Magnolia sp.,,,
+Maple-Amur,Acer ginnala,,,
+Maple-Freeman's,Acer x freemanii,,,
+Maple-Japanese,Acer palmatum,,,
+Maple-Norway,Acer platanoides,,,
+Maple-Red,Acer rubrum,,,
+Maple-Silver,Acer saccharinum,,,
+Maple-Sugar,Acer saccharum,,,
+Mulberry-Red,Morus rubra,,,
+Mulberry-White,Morus alba,,,
+Oak-Bur,Quercus macrocarpa,,,
+Oak-Northern Red,Quercus rubra,,,
+Oak-Shingle,Quercus imbricaria,,,
+Oak-Swamp White,Quercus bicolor,,,
+Pine-Austrian,Pinus nigra,,,
+Pine-Eastern White,Pinus strobus,,,
+Planetree-London,Platanus x acerifolia,,,
+Plum-Purple Leaf,Prunus cerasifera,,,
+Poplar-Eastern,Populus deltoides,,,
+Redbud-Eastern,Cercis canadensis,native,deciduous,short
+Rhododendron,Rhododendron sp,,,
+Sargent Crabapple,Malus sargentii,,,
+Serviceberry,Amelanchier canadensis,native,deciduous,long
+Serviceberry,Amelanchier sp.,,,
+Spruce-Colorado Blue,Picea pungens,,,
+Sweetgum-Common,Liquidambar styraciflua,,,
+Sycamore-American,Platanus occidentalis,,,
+Tree of Heaven,Ailanthus altissima,,,
+Tuliptree,Liriodendron tulipifera,,,
+Viburnum,Viburnum sp,,,
+Viburnum,Viburnum sp.,,,
+Viburnum sp,Viburnum sp,,,
+Walnut-Black,Juglans nigra,,,
+Witchhazel,Hamamelis virginiana,,,
+Yellowwood,Cladrastis kentukea,,,
+Zelkova-Japanese,Zelkova serrata,,,
